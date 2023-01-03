@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 0.5em;
+    box-sizing: border-box;
+  }
+  
+  #qrcode {
+    margin-top: 1em;
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+  }
+  
+  footer{
+    font-size: 10px;
+    font-weight: 400;
+    color: #4285f4;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  a{
+    color: #f47a42;
+    cursor: pointer;
+    text-decoration: none;
+  }
