@@ -2,3 +2,5 @@
 
 
 ## QrCode Generator
+
+### Firefox Addons For QrCode Generation!
